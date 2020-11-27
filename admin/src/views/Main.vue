@@ -41,7 +41,7 @@ export default class Main extends Vue {
         ]
       },
       {
-        title: '运营管理',
+        title: '运营管',
         items: [
           { title: '用户管理', path: '/users/list'},
         ]
